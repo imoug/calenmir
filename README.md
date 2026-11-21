@@ -4,4 +4,5 @@ Welcome to Calenmir, a world steeped in ancient magic, where the veil between th
 
 ## Recently Updated
 
+- [Gods and Pantheons](gods-and-pantheons/Ascended.md)
 - [Test](test.md)
