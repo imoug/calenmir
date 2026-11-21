@@ -1,0 +1,82 @@
+/* Calenmir theme: forest greens & earthy browns */
+:root {
+  --theme-color: #3c5a36;
+  --calenmir-forest: #2a452b;
+  --calenmir-forest-dark: #1d311e;
+  --calenmir-brown: #8b5e34;
+  --calenmir-brown-dark: #5f3f22;
+  --calenmir-parchment: #faf6ec;
+  --calenmir-parchment-deep: #f1ead8;
+  --calenmir-text: #2e2a22;
+}
+
+body {
+  background: var(--calenmir-parchment);
+  color: var(--calenmir-text);
+}
+
+/* Typography: serif headings for a lore feel */
+body, .anchor span, . markdown-section {
+}
+h1, h2, h3, h4, h5, .markdown-section h1, .markdown-section h2,
+.markdown-section h3, .markdown-section h4, .app-name,
+.sidebar > h1, .sidebar .app-name {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  color: var(--calenmir-forest-dark);
+  letter-spacing: 0.01em;
+}
+.markdown-section h1 { border-bottom: 2px solid var(--calenmir-brown); }
+.markdown-section h2 { border-bottom: 1px solid #d8cdb4; }
+
+/* Sidebar: deep forest */
+.sidebar {
+  background: linear-gradient(180deg, var(--calenmir-forest-dark) 0%, var(--calenmir-forest) 100%);
+  color: #e9e4d2;
+}
+.sidebar .app-name { color: #f4efdc; }
+.sidebar ul li a {
+  color: #d7d2bd;
+  border-left-color: transparent;
+}
+.sidebar ul li.active > a {
+  color: #ffffff;
+  border-left-color: var(--calenmir-brown);
+  background: rgba(139, 94, 52, 0.18);
+}
+.sidebar ul li a:hover { color: #ffffff; }
+.sidebar .search input, .sidebar .search .input-wrap {
+  background: rgba(255, 255, 255, 0.08);
+}
+.sidebar .search input::placeholder { color: #b9b39b; }
+.sidebar .search .matching-post { border-bottom: 1px solid rgba(255,255,255,0.12); }
+.sidebar .search p { color: #d7d2bd; }
+.sidebar .search h2 { color: #f4efdc; }
+.sidebar .sidebar-toggle { background: var(--calenmir-forest-dark); }
+.sidebar .sidebar-toggle span { background: var(--calenmir-brown); }
+
+/* Links & accents */
+.markdown-section a {
+  color: var(--calenmir-brown-dark);
+  text-decoration-color: var(--calenmir-brown);
+}
+.markdown-section a:hover { color: var(--calenmir-brown); }
+
+/* Tables, quotes, code */
+.markdown-section blockquote {
+  border-left: 4px solid var(--calenmir-forest);
+  background: var(--calenmir-parchment-deep);
+  color: #4a4536;
+}
+.markdown-section code, .token {
+  background: #ece1c6;
+  color: var(--calenmir-forest-dark);
+}
+.markdown-section pre {
+  background: var(--calenmir-forest-dark);
+}
+.markdown-section pre code { color: #e9e4d2; }
+.markdown-section table tr:nth-child(2n) { background: var(--calenmir-parchment-deep); }
+.markdown-section table th { background: #e5dcc0; }
+
+/* Search results page */
+.search-plugin .search-nav { }
