@@ -4,4 +4,6 @@ Welcome to Calenmir, a world steeped in ancient magic, where the veil between th
 
 ## Recently Updated
 
-- [Test](test.md)
+<!-- recent:start -->
+- [Test](test.md) _(updated 2026-11-21)_
+<!-- recent:end -->
