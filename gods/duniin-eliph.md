@@ -5,13 +5,13 @@ Elven name meaning "the balance" or more literally "two faces or aspects" of nat
 
 ## **The Pantheon**
 
-The **Nairene and Daeherut** are **two sides of the same divine force**, representing the **eternal cycle of growth and rest**. They **do not war with each other**, but **dance in balance**, each **pushing the world toward harmony** in their own way.
+The Nairene and Daeherut are two sides of the same divine force, representing the eternal cycle of growth and rest. They do not war with each other, but dance in balance, each pushing the world toward harmony in their own way.
 
-- **The Nairene** **nurture and guide**, offering **wisdom and protection** to those who **respect the land**.
-- **The Daeherut** **keep and end**, forcing **renewal through rest** and **growth through the clearing**.
-- Together, they **form the Duniin Eliph**, the **divine force that shapes Calenmir's fate**.
+- The Nairene nurture and guide, offering wisdom and protection to those who respect the land.
+- The Daeherut keep and end, forcing renewal through restand growth through the clearing.
+- Together, they form the Duniin Eliph, the divine force that shapes Calenmir's fate.
 
-Each god of one face stands in pposition to a counterpart of the other; each pair of faces makes one truth.
+Each god of one face stands in opposition to a counterpart of the other and each pair of faces makes one truth.
 
 | Nairene     | Daeherut     |
 | ----------- | ------------ |
@@ -34,27 +34,27 @@ Each god of one face stands in pposition to a counterpart of the other; each pai
 | Woldros | Nerith   |
 ### **The Nairene: The Green Touched**
 
-The **Nairene** are the **nurturing aspect of the Duniin Eliph**, embodying **growth, harmony, and the quiet strength of nature**. They are **not a single deity**, but a **family of divine spirits**, each governing a **domain of the natural world**. Their **presence is felt** in the **oldest forests, the deepest rivers, and the sacred groves** where **mortals and gods walk as equals**.
+The Nairene are the nurturing aspect of the Duniin Eliph embodying growth, harmony, and the quiet strength of nature. They arenot a single deity, but a family of divine spirits, each governing a domain of the natural world. Their **presence is felt** in the oldest forests, the deepest rivers, and the sacred groves where mortals and gods walk as equals.
 
 #### **The Nairene's Role in Calenmir**
 
-The Nairene **do not rule**, but **guide**. They **appear to druids, rangers, and those who respect the land**, offering **blessings, warnings, and trials**. Their **gifts are subtle**: **a plant that heals, a path that appears in the fog, a beast that speaks**; but their **wrath is swift** for those who **harm the wilds**.
+The Nairene do not rule, but guide. They appear to druids, rangers, and those who respect the land, offering blessings, warnings, and trials. Their gifts are subtle: a plant that heals, a path that appears in the fog, a beast that speaks; but their **wrath is swift** for those who harm the wilds.
 
-- **The Gladed League** **fears and resents them**, for the Nairene **undermine the elves' control** over nature.
-- **The Dales and Stormlands** **revere them**, leaving **offerings of grain and song** at sacred groves.
-- **Ceunan's druids** **study under them**, but the Nairene **punish those who exploit** their teachings.
-- **The Othauten cults** **hunt them**, calling them **false gods**, but the Nairene **respond with silence, or vanishings**.
+- **The Gladed League** fears and resents them, for the Nairene undermine the elves' control over nature.
+- **The Dales and Stormlands** revere them, leaving offerings of grain and song at sacred groves.
+- Ceunan's druids study under them, but the Nairene punish those who exploit their teachings.
+- **The Othauten cults** hunt them, calling them false gods, but the Nairene respond with silence, or vanishings.
 
 ### **The Daeherut: The Shadow Lords**
 
-The **Daeherut** are the **other aspect of the Duniin Eliph**, embodying **death, darkness and decay**. They are **not cruel**, but **indifferent to mortal comfort**, seeing **rest and ending as necessary parts of renewal**. No harvest comes without the fallow year; no forest grows without the clearing fire; no grief heals that is never felt. They **manifest as howling winds, patient rot, or trickster figures**, **testing mortals** with trials of **endurance and acceptance**.
+The Daeherut are the other aspect of the Duniin Eliph, embodying death, darkness and decay. They are not cruel, but indifferent to mortal comfort, seeing rest and ending as necessary parts of renewal. No harvest comes without the fallow year; no forest grows without the clearing fire; no grief heals that is never felt. They manifest as howling winds, patient rot, or trickster figures, testing mortals with trials of endurance and acceptance.
 
 #### **The Daeherut's Role in Calenmir**
 
-The Daeherut **do not offer comfort**, but **custody**. They **appear at funerals, famines, and moments of upheaval**, keeping what life prefers not to look at. Their **blessings are quiet**: **a clean death, a good winter, a debt forgiven**, but their **wrath is absolute** for those who **refuse to let go**.
+The Daeherut do not offer comfort, but custody. They appear at funerals, famines, and moments of upheaval, keeping what life prefers not to look at. Their blessings are quiet: a clean death, a good winter, a debt forgiven, but their wrath is absolute for those who refuse to let go.
 
-- **The Stormlands** **respect them**, seeing their **tempests as a test of strength**.
-- **Torwynn's dwarves** **keep their rites**, for the Daeherut **shake the mountains** and **keep the dead**.
-- **The Othauten cults** **worship them as gods of destruction**, but the Daeherut **care little for devotion**, only **for what must be kept and ended**.
+- **The Stormlands** respect them, seeing their tempests as a test of strength.
+- **Torwynn's dwarves** keep their rites, for the Daeherut shake the mountains and keep the dead.
+- **The Othauten cults** worship them as gods of destruction, but the Daeherut care little for devotion, only for what must be kept and ended.
 
 
