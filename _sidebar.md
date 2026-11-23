@@ -2,4 +2,5 @@
 
 - [Test](test.md)
 
-- [Duniin Eliph](gods/duniin-eliph.md)
+- Gods and Pantheons
+  - [Duniin Eliph](gods-and-pantheons/duniin-eliph.md)
