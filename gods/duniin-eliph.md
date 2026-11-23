@@ -1,3 +1,5 @@
+# Duniin Eliph
+
 
 Elven name meaning "the balance" or more literally "two faces or aspects" of nature this term describes 2 opposing pantheons of deities which represent the natural world. The [[Nairene]], or the green touched, representing life, light and growth, and the [[Daeherut]], the shadow lords, representing death, darkness and decay.
 
