@@ -3,6 +3,35 @@
 
 Elven name meaning "the balance" or more literally "two faces or aspects" of nature this term describes 2 opposing pantheons of deities which represent the natural world. The Nairene, or the green touched, representing life, light and growth, and the Daeherut, the shadow lords, representing death, darkness and decay.
 
+## **The Pantheon**
+
+The **Nairene and Daeherut** are **two sides of the same divine force**, representing the **eternal cycle of growth and rest**. They **do not war with each other**, but **dance in balance**, each **pushing the world toward harmony** in their own way.
+
+- **The Nairene** **nurture and guide**, offering **wisdom and protection** to those who **respect the land**.
+- **The Daeherut** **keep and end**, forcing **renewal through rest** and **growth through the clearing**.
+- Together, they **form the Duniin Eliph**, the **divine force that shapes Calenmir's fate**.
+
+Each god of one face stands in pposition to a counterpart of the other; each pair of faces makes one truth.
+
+| Nairene     | Daeherut     |
+| ----------- | ------------ |
+| Neulla  | Nhalys   |
+| Iaras   | Vereth   |
+| Geddal  | Korvath  |
+| Axtia   | Mordhal  |
+| Reraura | Xarion   |
+| Qhadar  | Vharnos  |
+| Vaone   | Draveth  |
+| Sirus   | Vorneth  |
+| Manera  | Selvane  |
+| Phutune | Karneth  |
+| Cailega | Cryven   |
+| Oius    | Ouroth   |
+| Ephion  | Murneth  |
+| Certhys | Skaelith |
+| Xoemis  | Vessith  |
+| Dhorer  | Talveth  |
+| Woldros | Nerith   |
 ### **The Nairene: The Green Touched**
 
 The **Nairene** are the **nurturing aspect of the Duniin Eliph**, embodying **growth, harmony, and the quiet strength of nature**. They are **not a single deity**, but a **family of divine spirits**, each governing a **domain of the natural world**. Their **presence is felt** in the **oldest forests, the deepest rivers, and the sacred groves** where **mortals and gods walk as equals**.
@@ -27,26 +56,5 @@ The Daeherut **do not offer comfort**, but **custody**. They **appear at funeral
 - **The Stormlands** **respect them**, seeing their **tempests as a test of strength**.
 - **Torwynn's dwarves** **keep their rites**, for the Daeherut **shake the mountains** and **keep the dead**.
 - **The Othauten cults** **worship them as gods of destruction**, but the Daeherut **care little for devotion**, only **for what must be kept and ended**.
-### **The Pantheon**
 
-Each god of one face stands in pposition to a counterpart of the other; each pair of faces makes one truth.
 
-| Nairene     | Daeherut     |
-| ----------- | ------------ |
-| Neulla  | Nhalys   |
-| Iaras   | Vereth   |
-| Geddal  | Korvath  |
-| Axtia   | Mordhal  |
-| Reraura | Xarion   |
-| Qhadar  | Vharnos  |
-| Vaone   | Draveth  |
-| Sirus   | Vorneth  |
-| Manera  | Selvane  |
-| Phutune | Karneth  |
-| Cailega | Cryven   |
-| Oius    | Ouroth   |
-| Ephion  | Murneth  |
-| Certhys | Skaelith |
-| Xoemis  | Vessith  |
-| Dhorer  | Talveth  |
-| Woldros | Nerith   |
